@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/curriculum/bin/Debug/netcoreapp3.1
+/curriculum/obj
+/.vs/curriculum/DesignTimeBuild/.dtbcache.v2
+/.vs/curriculum/DesignTimeBuild
+/.vs/curriculum/config
+/.vs/curriculum/v16/TestStore/0
+/.vs/curriculum/v16
